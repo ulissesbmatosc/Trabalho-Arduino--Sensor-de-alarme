@@ -8,11 +8,11 @@ O sensor PIR é fácil de se encontrar, a maioria das lojas virtuais e físicas 
 Para desenvolver o projeto Alarme com Arduino e sensor de movimentos PIR você vai precisar de:
 
 Arduino;
-sensor de movimentos/presença PIR;
-led;
-buzzer de 5 volts;
+Sensor de movimentos/presença PIR;
+Led;
+Buzzer de 5 volts;
 2 resistores de 220 ohms;
-protoboard;
-bateria de 9 volts;
-suporte para bateria com plug para ligar no Arduino;
-fios para interligar os componentes.
+Protoboard;
+Bateria de 9 volts;
+Suporte para bateria com plug para ligar no Arduino;
+Fios para interligar os componentes.
