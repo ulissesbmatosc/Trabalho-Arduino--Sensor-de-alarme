@@ -20,3 +20,7 @@ Fios para interligar os componentes.
 
 #Créditos
 www.comofazerascoisas.com.br
+
+Através deste esquema fica mais fácil de se ter uma visão geral, e de como montar corretamente o projeto.
+Este esquema foi montado no software Fritzing.
+<img src="https://github.com/ulissesbmatosc/Trabalho-Arduino--Sensor-de-alarme/blob/master/projeto-arduino-alarme.jpg" height="200" width="200">
