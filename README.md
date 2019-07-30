@@ -1,5 +1,5 @@
-# ulissesbmatosc
- GitHub
+# Sensor de alarme
+ Arduíno Uno
 
 Este projeto de alarme é capaz de detectar movimentos em um ambiente disparando um sinal sonoro e acendendo um led. Pode ser usado por exemplo na porta de entrada da sua casa ou em algum cômodo e quando alguém passar por lá o alarme será disparado. Então se você necessita ser avisado da presença de alguém em um determinado lugar este projeto é uma opção interessante e fácil de fazer.
 
