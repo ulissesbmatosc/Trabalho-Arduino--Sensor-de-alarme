@@ -16,7 +16,9 @@ pinMode(pinLed,OUTPUT);
 }
 
 void loop() {
-//Lendo o valor do sensor PIR. Este sensor pode assumir 2 valores //1 quando detecta algum movimento e 0 quando não detecta. valorSensorPIR = digitalRead(pinSensorPIR);
+//Lendo o valor do sensor PIR. Este sensor pode assumir 2 valores //1 quando detecta algum movimento e 0 quando não detecta. 
+
+valorSensorPIR = digitalRead(pinSensorPIR);
 
 Serial.print("Valor do Sensor PIR: ");
 Serial.println(valorSensorPIR);
